@@ -1,0 +1,15 @@
+h1 {
+    color: palevioletred;
+}
+h2 {
+    color: crimson;
+}
+body {
+    background-color: lightpink;
+}
+ul {
+    font-family: 'Segoe UI';
+}
+ol {
+    font-family: serif;
+}
